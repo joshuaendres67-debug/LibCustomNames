@@ -85,3 +85,4 @@ n["@Grolandage"] = {"Grolol", "|c00ffffG|r|c2bd5d5r|r|c55aaaao|r|c808080l|r|caa5
 n["@ReganStevenss"] = {"3InchPP", "|cbd3bff3|r|cc631fcI|r|cce27f8n|r|cd71ef5c|r|cdf14f2h|r|ce80aeeP|r|cf000ebP|r"}
 n["@Diehler86"] = {"Diehler86", "|cffff00D|r|cdfff20i|r|cbfff40e|r|c9fff60h|r|c80ff80l|r|c60ff9fe|r|c40ffbfr|r|c20ffdf8|r|c00ffff6|r"}
 n["@LowCost21"] = {"LowCost21", "|cfdc700Lo|r|cffab01w|r|cff6a00C|r|cff4015o|r|ce22400s|r|cb51a00t21|r"}
+n["@Negatiiv_Shvde"] = {"Sternchen", "|cfecb3eS|r|cefbc56t|r|ce0ac6ee|r|cd19d86r|r|cc28d9en|r|cb37eb6c|r|ca46eceh|r|c955fe6e|r|c864ffen|r"}
